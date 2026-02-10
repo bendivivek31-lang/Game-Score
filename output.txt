@@ -1,0 +1,13 @@
+Output:
+
+==============================
+Enter the player's name: Vivek
+Number of Games played: 08
+Total Score Achieved: 500
+==============================
+----RESULT----
+
+Player Name: Vivek
+Games Played: 8
+Total Score: 500
+Aerage Score: 62.5
